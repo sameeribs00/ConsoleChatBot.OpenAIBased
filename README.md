@@ -9,7 +9,7 @@ Persistent Sessions: Continue conversations with full context retention
 
 Prerequisites
 
-.NET 6.0 or higher
+.NET 9.0 or higher
 NuGet packages:
 Microsoft.Extensions.AI.OpenAI
 Configuration
